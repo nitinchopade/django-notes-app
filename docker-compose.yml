@@ -4,3 +4,6 @@ services :
      image : nitinchopade/my-note-app:latest
      ports :
          - "8000:8000"
+         - "8001:8000"
+         - "8002:8000"
+         
